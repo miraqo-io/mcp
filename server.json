@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.miraqo-io/seo",
+  "name": "io.github.deleteweb/seo",
   "title": "Miraqo",
-  "description": "Query your SEO data in plain language: rankings, audits, backlinks, competitors, Search Console and AI visibility.",
+  "description": "Query your SEO data in plain language: rankings, audits, backlinks, competitors and AI visibility.",
   "websiteUrl": "https://miraqo.io",
   "repository": {
     "url": "https://github.com/Miraqo-io/mcp",
