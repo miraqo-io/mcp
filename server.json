@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.miraqo-io/seo",
+  "title": "Miraqo",
+  "description": "Query your SEO data in plain language: rankings, audits, backlinks, competitors, Search Console and AI visibility.",
+  "websiteUrl": "https://miraqo.io",
+  "repository": {
+    "url": "https://github.com/Miraqo-io/mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.miraqo.io/mcp"
+    }
+  ]
+}
