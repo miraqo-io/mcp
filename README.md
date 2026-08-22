@@ -1,5 +1,7 @@
 # Miraqo MCP Server
 
+[![smithery badge](https://smithery.ai/badge/miraqo/seo)](https://smithery.ai/servers/miraqo/seo)
+
 Connect Claude, ChatGPT, Gemini, Claude Code or Cursor to your SEO data in
 [Miraqo](https://miraqo.io) — rankings, technical audit, backlinks, competitors,
 Search Console and AI visibility — and query it in plain language from the chat
